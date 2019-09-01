@@ -258,6 +258,14 @@
           <option name="url" value="https://github.com/PhilippeBoisney/GithubArchitectureComponents.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yasharpm/SequenceLayout.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tommybuonomo/dotsindicator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
