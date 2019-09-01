@@ -250,6 +250,10 @@
           <option name="url" value="https://github.com/jaisonfdo/MultiSelectRecyclerVIew.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AliAzaz/DataBinding-with-Room.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
