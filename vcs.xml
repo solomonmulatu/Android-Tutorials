@@ -338,6 +338,10 @@
           <option name="url" value="https://github.com/500px/500px-android-blur.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wasabeef/Blurry.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
