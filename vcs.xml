@@ -342,6 +342,10 @@
           <option name="url" value="https://github.com/wasabeef/Blurry.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/writtmeyer/recyclerviewdemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
