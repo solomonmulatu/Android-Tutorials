@@ -382,6 +382,10 @@
           <option name="url" value="https://github.com/Jay-Goo/RangeSeekBar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/florent37/ExpansionPanel.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
