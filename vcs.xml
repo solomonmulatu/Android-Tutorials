@@ -430,6 +430,10 @@
           <option name="url" value="https://github.com/nickfox/Update-Android-UI-from-a-Service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sonusurender/Detect_Internet_Connection_Demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
